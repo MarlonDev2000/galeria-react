@@ -1,0 +1,20 @@
+.loading {
+  font-size: 28px;
+}
+
+.box {
+  margin: 30px;
+  border: 2px solid black;
+  padding: 30px;
+  cursor: pointer;
+}
+
+.box:hover {
+  background-color: #eee;
+}
+
+.links {
+  color: #000;
+  text-decoration: none;
+  font-weight: bold;
+}
