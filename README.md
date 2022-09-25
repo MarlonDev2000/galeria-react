@@ -24,7 +24,7 @@ Projeto feito como exercicio durante o curso de React da B7WEB, consumindo a API
 - Clone o repositorio:
 
 ```bash
-$ git clone https://github.com/MarlonDev2000/react-pokedex
+$ git clone https://github.com/MarlonDev2000/galeria-react
 ```
 
 - Instale todas as dependências:
